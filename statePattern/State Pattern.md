@@ -15,7 +15,8 @@
 물론 실제로 다른 클래스로 변신하는 것이 아닌 여러 상태 객체를 바꿔가며 사용하니  
 이런 결과를 얻을 수 있는거지만  
   
-![[Pasted image 20250217151759.png]]
+<img width="585" alt="image" src="https://github.com/user-attachments/assets/e9106111-d1d0-4489-85a4-c209380e5dc5" />
+
 
 
 ## 상태패턴 vs 전략패턴  
